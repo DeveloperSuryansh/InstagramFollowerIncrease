@@ -1,0 +1,4 @@
+[✔] Successfully followed/unfollowed a total of 1 users
+[✘] Failed to unfollow 1 users !
+[+] Percentage of success >>> 0.027777777777777776%
+[+] Percentage of failure >>> 0.027777777777777776%
