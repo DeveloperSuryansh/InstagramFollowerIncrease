@@ -38,6 +38,16 @@ python3 ./cookies.py
 python3 ./igfi.py -u <username> -p <password> --session <path_to_session_file>
 ```
 
+```bash
+sudo su
+git clone https://github.com/developersuryansh/InstagramFollowerIncrease
+cd InstagramFollowerIncrease
+sudo pip install -r ./files/requirements.txt
+python3 ./cookies.py
+python3 ./igfi.py -u <username> -p <password> --session <path_to_session_file>
+```
+
+
 ### Windows 🪟
 
 ```bash
@@ -48,11 +58,28 @@ python3 cookies.py
 python3 igfi.py -u <username> -p <password> --session <path_to_session_file>
 ```
 
+```bash
+git clone https://github.com/developersuryansh/InstagramFollowerIncrease
+cd InstagramFollowerIncrease
+sudo pip install -r ./files/requirements.txt
+python3 ./cookies.py
+python3 ./igfi.py -u <username> -p <password> --session <path_to_session_file>
+```
+
+
 ### MacOS 🍎
 
 ```bash
 git clone https://github.com/new92/IGFI
 cd IGFI
+python -m pip install -r ./files/requirements.txt
+python3 ./cookies.py
+python3 ./igfi.py -u <username> -p <password> --session <path_to_session_file>
+```
+
+```bash
+git clone https://github.com/developersuryansh/InstagramFollowerIncrease
+cd InstagramFollowerIncrease
 python -m pip install -r ./files/requirements.txt
 python3 ./cookies.py
 python3 ./igfi.py -u <username> -p <password> --session <path_to_session_file>
@@ -132,7 +159,7 @@ git pull
 
 ## Screenshots 📸
 
-**Photos of the script can be found at <a href="https://github.com/new92/IGFI/tree/main/photos">this url</a>**
+**Photos of the script can be found at <a href="https://github.com/developersuryansh/InstagramFollowerIncrease/tree/main/photos">this url</a>**
 
 ## Contributing 🤝
 
@@ -176,7 +203,3 @@ Answer ➡️ No, not at all! It's similar to asking if following and unfollowin
 - Can my account get blocked by using this script ?
 
 Answer ➡️ Only if you're using a very old version of Instagram. But the script has been tested in several accounts and none of them got blocked.
-
-## License 📜
-
-[![License](https://img.shields.io/github/license/new92/IGFI?style=for-the-badge)](https://github.com/new92/IGFI/blob/main/LICENSE.md)
